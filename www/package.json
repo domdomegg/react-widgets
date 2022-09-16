@@ -17,7 +17,7 @@
     "@mapbox/jsxtreme-markdown": "^0.7.3",
     "@mapbox/rehype-prism": "github:mapbox/rehype-prism",
     "@monastic.panic/component-playground": "^3.2.2",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "chance": "^1.0.13",
     "cldr-data": "^32.0.1",
     "common-tags": "^1.7.2",
