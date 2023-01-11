@@ -30,7 +30,7 @@
     "gatsby-remark-prismjs": "^1.2.21",
     "gatsby-source-filesystem": "^2.0.1-beta.3",
     "gatsby-transformer-react-docgen": "^2.1.1-beta.3",
-    "gatsby-transformer-remark": "^2.1.1-beta.2",
+    "gatsby-transformer-remark": "^5.25.1",
     "gh-pages": "^1.1.0",
     "globalize": "^1.1.2",
     "graphql": "^0.13.0",
